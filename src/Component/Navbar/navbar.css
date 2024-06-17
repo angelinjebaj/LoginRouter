@@ -1,0 +1,37 @@
+.logoImg{
+    height:40px ;
+    width:auto ;
+    object-fit: contain;
+}
+.flexRow{
+     display: flex; 
+     flex: none; 
+     }
+.nav{
+    justify-content: space-between;
+   padding-top: 20px;
+   padding-right: 170px;
+}
+.pdgLft{
+  padding-left: 90px;
+}
+.fullW{
+    width: 100%;
+  }
+
+
+
+
+
+.halfWidth{
+    width: 50%;
+  }
+  .fullH{
+    height: 100%;
+  }
+
+
+.flexCol{ display: flex; 
+    flex: none; 
+    flex-direction: column;
+     width: 100%; }
